@@ -1,1 +1,1 @@
-Material for the tutorial on dyadic regression in networks and mixture models for the Winter Workshop on Complex Systems 2025 (https://wwcs2025.github.io/). Explanation is in the slides. Please reach out for questions! 2252927@swansea.ac.uk
+Material for the tutorial on using STAN for dyadic regression in networks and mixture models for the Winter Workshop on Complex Systems 2025 (https://wwcs2025.github.io/). Explanation is in the slides. Please reach out for questions! 2252927@swansea.ac.uk
