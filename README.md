@@ -1,1 +1,1 @@
-Material for the tutorial on dyadic regression in networks and mixture models for the Winter Workshop on Complex Systems 2025. Explenation is in the slides.
+Material for the tutorial on dyadic regression in networks and mixture models for the Winter Workshop on Complex Systems 2025. Explanation is in the slides. Please reach out if something does not feel right! 2252927@swansea.ac.uk
